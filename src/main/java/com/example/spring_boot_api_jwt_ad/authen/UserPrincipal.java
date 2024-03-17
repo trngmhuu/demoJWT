@@ -8,8 +8,6 @@ import org.springframework.security.core.userdetails.UserDetails;
 import java.util.ArrayList;
 import java.util.Collection;
 
-
-
 @AllArgsConstructor@NoArgsConstructor
 @Getter@Setter
 public class UserPrincipal implements UserDetails {
